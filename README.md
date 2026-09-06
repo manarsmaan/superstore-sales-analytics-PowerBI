@@ -25,6 +25,8 @@ An interactive two-page Power BI dashboard designed to evaluate retail sales per
 | Overview Page | Sales Analysis Page |
 | :---: | :---: |
 | ![Overview](Over%20view.png) | ![Sales Analysis](Sales%20Analysis.png) |
+## 🎬 Interactive Demo
+[Watch Recording](Recording%20.mp4)
 ---
 
 ## 🛠️ Tools & Technologies Used
